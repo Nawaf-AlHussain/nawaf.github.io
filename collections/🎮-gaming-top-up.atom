@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fanflixbd.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fanflixbd.com/collections/%F0%9F%8E%AE-gaming-top-up.atom"/>
+  <title>FANFLIX - OTT SUBSCRIPTIONS BD</title>
+  <updated>2024-03-15T11:20:39+06:00</updated>
+  <author>
+    <name>FANFLIX - OTT SUBSCRIPTIONS BD</name>
+  </author>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220927721621</id>
+    <published>2024-03-15T11:20:39+06:00</published>
+    <updated>2024-03-15T11:20:39+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/apple-itunes-giftcard-usa-region"/>
+    <title>Apple iTunes Gift Card</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Apple-Gift_Card.png?v=1735413632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            640.00 - 62500.00
+            <a href="https://www.fanflixbd.com/products/apple-itunes-giftcard-usa-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy iTunes Gift Card in Bangladesh – Instant Delivery at FanFlixBD</strong></p>
+<p>Looking for a quick and easy way to top up your <strong>iTunes account</strong> or send the perfect gift? <strong>FanFlixBD</strong> offers a wide range of <strong>iTunes Gift Cards</strong> for Bangladesh users, available in denominations from <strong>$2 to $60</strong>. Whether it's for apps, games, music, or books, an iTunes Gift Card is the ideal choice for any occasion.</p>
+<h3>Why Buy iTunes Gift Card from FanFlixBD?</h3>
+<p>At <strong>FanFlixBD</strong>, purchasing an <strong>iTunes Gift Card</strong> is fast and secure. Simply select the amount that fits your needs, add it to your cart, and make your payment. You’ll receive an <strong>instant redeemable code</strong> via email upon completing your order, allowing you to <strong>top up your iTunes account</strong> quickly.</p>
+<h3>Available iTunes Gift Card Denominations:</h3>
+<ul>
+<li><strong>$2, $3, $4, $5</strong></li>
+<li><strong>$10, $15, $25</strong></li>
+<li><strong>$50, $60</strong></li>
+</ul>
+<p>These cards can be used in the <strong>iTunes Store</strong>, <strong>App Store</strong>, <strong>Mac App Store</strong>, and <strong>iBooks Store</strong> to make purchases, whether for apps, in-app purchases, games, music, movies, or books.</p>
+<h3>The Perfect Gift for Any Occasion</h3>
+<p>The <strong>iTunes Gift Card</strong> makes a great gift for friends and family. It’s a versatile option suitable for all ages and preferences, whether you're gifting a music lover, a gamer, or an avid reader. With this card, your loved ones can choose whatever they like best from the <strong>Apple ecosystem</strong>.</p>
+<h3>How to Redeem iTunes Gift Card:</h3>
+<ol>
+<li>Open the <strong>iTunes Store App</strong> on your iPhone, iPad, or iPod.</li>
+<li>Scroll to the bottom and tap <strong>Redeem</strong>.</li>
+<li>Log in with your <strong>Apple ID</strong>.</li>
+<li>Enter the <strong>16-digit code</strong>, starting with X.</li>
+<li>Tap <strong>Redeem</strong> and your iTunes account balance will be updated instantly.</li>
+</ol>
+<p>At <strong>FanFlixBD</strong>, we provide a smooth shopping experience, making it easy for you to get your <strong>iTunes Gift Card</strong> with local payment methods.</p>
+<hr>
+<p><strong>Tags:</strong> iTunes Gift Card Bangladesh, Buy iTunes Gift Card BD, iTunes Gift Card Online BD, iTunes Redeem Code Bangladesh, App Store Gift Card Bangladesh, iTunes Gift Card Instant Delivery, Buy iTunes Gift Card with Bkash, iTunes Top-Up BD</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>5 USD</title>
+      <s:price currency="BDT">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>10 USD</title>
+      <s:price currency="BDT">1280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>20 USD</title>
+      <s:price currency="BDT">2560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>25 USD</title>
+      <s:price currency="BDT">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>50 USD</title>
+      <s:price currency="BDT">6400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>100 USD</title>
+      <s:price currency="BDT">12800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>200 USD</title>
+      <s:price currency="BDT">25400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>500 USD</title>
+      <s:price currency="BDT">62500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

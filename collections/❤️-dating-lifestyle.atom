@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fanflixbd.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fanflixbd.com/collections/%E2%9D%A4%EF%B8%8F-dating-lifestyle.atom"/>
+  <title>FANFLIX - OTT SUBSCRIPTIONS BD</title>
+  <updated>2025-05-19T02:23:31+06:00</updated>
+  <author>
+    <name>FANFLIX - OTT SUBSCRIPTIONS BD</name>
+  </author>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783928098965</id>
+    <published>2025-05-19T02:23:31+06:00</published>
+    <updated>2025-05-19T02:23:31+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/tinder-gold-subscription"/>
+    <title>Tinder Gold Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/IMG-3232.png?v=1747599793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783928098965</id>
+      <title>Redeem Code / 1 Month</title>
+      <s:price currency="BDT">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

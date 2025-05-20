@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fanflixbd.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fanflixbd.com/collections/all.atom"/>
+  <title>FANFLIX - OTT SUBSCRIPTIONS BD</title>
+  <updated>2025-05-19T02:23:31+06:00</updated>
+  <author>
+    <name>FANFLIX - OTT SUBSCRIPTIONS BD</name>
+  </author>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783928098965</id>
+    <published>2025-05-19T02:23:31+06:00</published>
+    <updated>2025-05-19T02:23:31+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/tinder-gold-subscription"/>
+    <title>Tinder Gold Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/IMG-3232.png?v=1747599793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783928098965</id>
+      <title>Redeem Code / 1 Month</title>
+      <s:price currency="BDT">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783927509141</id>
+    <published>2025-05-19T02:21:29+06:00</published>
+    <updated>2025-05-19T02:21:29+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/chegg-study-premium"/>
+    <title>Chegg Study Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/IMG-3231.png?v=1747599576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783927509141</id>
+      <title>Monthly Personal</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783927083157</id>
+    <published>2025-05-19T02:16:50+06:00</published>
+    <updated>2025-05-19T02:16:50+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/apple-music-premium"/>
+    <title>Apple Music Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/IMG-3230.png?v=1747599269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00 - 499.00
+            <a href="https://www.fanflixbd.com/products/apple-music-premium">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783927083157</id>
+      <title>Individual / 2 Month</title>
+      <s:price currency="BDT">349.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783927083157</id>
+      <title>Family / 2 Month</title>
+      <s:price currency="BDT">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783927083157</id>
+      <title>Individual / 3 Month</title>
+      <s:price currency="BDT">499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783927083157</id>
+      <title>Family / 3 Month</title>
+      <s:price currency="BDT">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783926853781</id>
+    <published>2025-05-19T02:12:57+06:00</published>
+    <updated>2025-05-19T02:12:57+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/gemini-advance"/>
+    <title>Gemini Advance</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/IMG-3229.png?v=1747599106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783926853781</id>
+      <title>1 Month Personal</title>
+      <s:price currency="BDT">499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8783926198421</id>
+    <published>2025-05-19T02:09:37+06:00</published>
+    <updated>2025-05-19T02:09:37+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/claude-ai-premium"/>
+    <title>Claude AI Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Claude-ai.png?v=1747598766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00 - 2499.00
+            <a href="https://www.fanflixbd.com/products/claude-ai-premium">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783926198421</id>
+      <title>Shared Account / 1 Month</title>
+      <s:price currency="BDT">499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8783926198421</id>
+      <title>Personal Account / 1 Month</title>
+      <s:price currency="BDT">2499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8642703687829</id>
+    <published>2025-05-19T02:02:44+06:00</published>
+    <updated>2025-05-19T02:02:44+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/zoom-premium-subscription"/>
+    <title>Zoom Premium Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Zoom-Premium_Subscription.png?v=1747598274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00 - 18000.00
+            <a href="https://www.fanflixbd.com/products/zoom-premium-subscription">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Zoom Premium Subscription on Fanflix: Unlock Advanced Features for an Enhanced Experience</strong></p>
+<p> </p>
+<p><span>Looking for a way to elevate your video conferencing and virtual meetings? The </span><span>Zoom Premium Subscription from Fanflix</span><span> offers a seamless solution for professionals, educators, and teams who need enhanced features and reliability. By subscribing through Fanflix, you gain access to Zoom’s premium features like extended meeting durations, larger participant capacity, cloud storage, and priority support—all designed to make virtual collaboration smoother and more effective.</span></p>
+<p> </p>
+<p><span>Key Benefits of Zoom Premium Subscription on Fanflix</span></p>
+<p> </p>
+<p><span><span class="Apple-tab-span"> </span>1.<span class="Apple-tab-span"> </span></span><span>Extended Meeting Time</span><span>: Say goodbye to 40-minute limits. Host longer meetings without interruptions.</span></p>
+<p><span><span class="Apple-tab-span"> </span>2.<span class="Apple-tab-span"> </span></span><span>Larger Meeting Capacity</span><span>: Accommodate more participants with ease, ideal for webinars, classes, or large team meetings.</span></p>
+<p><span><span class="Apple-tab-span"> </span>3.<span class="Apple-tab-span"> </span></span><span>Advanced Security</span><span>: Ensure your meetings stay private with end-to-end encryption and advanced security options.</span></p>
+<p><span><span class="Apple-tab-span"> </span>4.<span class="Apple-tab-span"> </span></span><span>Cloud Storage</span><span>: Record and save meetings directly to the cloud for easy access and sharing later.</span></p>
+<p><span><span class="Apple-tab-span"> </span>5.<span class="Apple-tab-span"> </span></span><span>Priority Support</span><span>: Get help when you need it with Zoom’s premium support options available to Fanflix subscribers.</span></p>
+<p> </p>
+<p><span>How to Get Zoom Premium Subscription on Fanflix</span></p>
+<p> </p>
+<p><span>Subscribing through Fanflix is quick and straightforward. Visit Fanflix’s website, select the Zoom Premium plan that suits your needs, and enjoy an uninterrupted, high-quality video conferencing experience. With Fanflix, managing your subscription is simple and flexible.</span></p>
+<p> </p>
+<p><span>Upgrade your meetings today with the </span><span>Zoom Premium Subscription from Fanflix</span><span>—perfect for anyone seeking the best in online communication.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8642703687829</id>
+      <title>1 Month / 100 Participants</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8642703687829</id>
+      <title>12 Month / 100 Participants</title>
+      <s:price currency="BDT">9500.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8642703687829</id>
+      <title>1 Month / 500 Participants</title>
+      <s:price currency="BDT">1990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8642703687829</id>
+      <title>12 Month / 500 Participants</title>
+      <s:price currency="BDT">18000.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220907864213</id>
+    <published>2025-05-15T21:45:02+06:00</published>
+    <updated>2025-05-15T21:45:02+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/grammarly-premium-subscriptions-bangladesh"/>
+    <title>Grammarly Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/grammarly-Subscription_bd.jpg?v=1729879311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00 - 1299.00
+            <a href="https://www.fanflixbd.com/products/grammarly-premium-subscriptions-bangladesh">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grammarly Premium Subscription in Bangladesh – Enhance Your Writing with FanFlixBD</strong></p>
+<p>Take your writing to the next level with a <strong>Grammarly Premium</strong> subscription, now available in Bangladesh through <strong>FanFlixBD</strong>. Whether you're a student, professional, or creative writer, Grammarly Premium offers advanced tools to help you write with clarity, accuracy, and confidence.</p>
+<h3>Why Choose Grammarly Premium?</h3>
+<ul>
+<li>
+<strong>Advanced Grammar and Spelling Checks</strong>: Get real-time suggestions to correct grammatical errors, punctuation issues, and spelling mistakes, ensuring your writing is error-free.</li>
+<li>
+<strong>Style and Tone Adjustments</strong>: Grammarly Premium provides recommendations on tone, formality, and word choice, helping you write more effectively based on your audience.</li>
+<li>
+<strong>Plagiarism Detection</strong>: Ensure originality in your writing with Grammarly’s built-in plagiarism detection, which scans billions of web pages and academic papers.</li>
+<li>
+<strong>Clarity Enhancements</strong>: Improve the structure and readability of your writing with clarity-focused suggestions, making your content easier to understand.</li>
+<li>
+<strong>Vocabulary Enhancement</strong>: Grammarly suggests synonyms and better word choices to diversify your vocabulary and enhance your writing style.</li>
+</ul>
+<h3>Grammarly Premium Plans Available on FanFlixBD:</h3>
+<ul>
+<li>
+<strong>Monthly Plan</strong>: Ideal for users who need short-term access to premium writing tools.</li>
+<li>
+<strong>Quarterly Plan</strong>: A cost-effective option for those who need ongoing support for their writing projects.</li>
+<li>
+<strong>Annual Plan</strong>: The best value for frequent writers, providing a full year of Grammarly Premium services at a discounted rate.</li>
+</ul>
+<h3>How to Buy Grammarly Premium in Bangladesh?</h3>
+<p>Buying a <strong>Grammarly Premium subscription</strong> through <strong>FanFlixBD</strong> is fast and easy:</p>
+<ol>
+<li>Choose your preferred plan (monthly, quarterly, or annual).</li>
+<li>The subscription will be activated on <strong>your Grammarly account</strong>.</li>
+<li>Pay securely via <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong> for instant access.</li>
+</ol>
+<h3>Why Buy from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: Get Grammarly Premium at competitive rates in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Start using Grammarly Premium right after payment.</li>
+<li>
+<strong>Secure Payment Options</strong>: Choose from <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong> for a safe and smooth transaction.</li>
+<li>
+<strong>Genuine Service</strong>: Enjoy a trusted and hassle-free experience with FanFlixBD, ensuring genuine Grammarly Premium subscriptions.</li>
+</ul>
+<p>Improve your writing and communication skills with <strong>Grammarly Premium</strong>. Subscribe today through <strong>FanFlixBD</strong> and make every word count!</p>
+<hr>
+<p><strong>Tags</strong>: Grammarly Premium Subscription Bangladesh, Buy Grammarly with Bkash, Grammarly Premium Price in Bangladesh, FanFlixBD Grammarly Subscription, Grammarly Premium Monthly, Quarterly, Annual Plans, Improve Writing with Grammarly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220907864213</id>
+      <title>6 Months</title>
+      <s:price currency="BDT">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220907864213</id>
+      <title>1 Year</title>
+      <s:price currency="BDT">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8675597844629</id>
+    <published>2025-01-06T22:15:12+06:00</published>
+    <updated>2025-01-06T22:15:12+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/netflix-subscription-vip-plan"/>
+    <title>NETFLIX VIP PLAN</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Vip-2.png?v=1735413828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            750.00 - 2100.00
+            <a href="https://www.fanflixbd.com/products/netflix-subscription-vip-plan">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Netflix</s:tag>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8675597844629</id>
+      <title>1 Month</title>
+      <s:price currency="BDT">750.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8675597844629</id>
+      <title>3 Month</title>
+      <s:price currency="BDT">2100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8650828742805</id>
+    <published>2024-11-13T13:11:14+06:00</published>
+    <updated>2024-11-13T13:11:14+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/microsoft-office-365-subscription"/>
+    <title>Microsoft Office 365 Subscription</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Buy-microsft_office_365_Price_in_bangladesh.png?v=1731481878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            1899.00 - 7999.00
+            <a href="https://www.fanflixbd.com/products/microsoft-office-365-subscription">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8650828742805</id>
+      <title>12 Months Personal</title>
+      <s:price currency="BDT">1899.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8650828742805</id>
+      <title>12 Months Family Owner</title>
+      <s:price currency="BDT">7999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8640055967893</id>
+    <published>2024-10-26T00:43:47+06:00</published>
+    <updated>2024-10-26T00:43:47+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/youtube-premium-price-in-bangladesh"/>
+    <title>Youtube Premium Subscription</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/youtube-premium.jpg?v=1729881830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            1299.00 - 2200.00
+            <a href="https://www.fanflixbd.com/products/youtube-premium-price-in-bangladesh">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>YouTube Premium Subscription in Bangladesh via FanflixBD: Unlock Ultimate Features &amp; Benefits!</strong></p>
+<p>Upgrade your YouTube experience with a <strong>YouTube Premium subscription</strong> in Bangladesh, now available through <strong>FanflixBD</strong>. With YouTube Premium, you can enjoy an enhanced viewing experience, exclusive content, and more—all for an affordable price. Whether you're watching your favorite videos, listening to music, or discovering new creators, YouTube Premium ensures that your time spent on YouTube is smooth, seamless, and enjoyable.</p>
+<h3>What is YouTube Premium?</h3>
+<p>YouTube Premium is a subscription service that offers a range of exclusive benefits on YouTube, including an <strong>ad-free experience</strong>, the ability to download videos for offline viewing, background play, and access to <strong>YouTube Music</strong>—all bundled into one service. When you subscribe to YouTube Premium via <strong>FanflixBD</strong>, you can enjoy all these features and more, without the need for a traditional payment method like credit cards or PayPal.</p>
+<h3>Key Features of YouTube Premium via FanflixBD:</h3>
+<ol>
+<li>
+<p><strong>Ad-Free Experience:</strong></p>
+<ul>
+<li>Say goodbye to annoying ads! With YouTube Premium, you can watch your favorite videos without interruptions, giving you a cleaner and faster viewing experience.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offline Downloads:</strong></p>
+<ul>
+<li>Download videos and music directly to your device and watch them offline anytime, anywhere. Perfect for when you're traveling or in areas with limited internet access.</li>
+</ul>
+</li>
+<li>
+<p><strong>Background Play:</strong></p>
+<ul>
+<li>Keep videos or music playing in the background while you browse other apps, check emails, or even turn off your screen. This is especially useful for listening to music, podcasts, and long videos.</li>
+</ul>
+</li>
+<li>
+<p><strong>YouTube Music Premium:</strong></p>
+<ul>
+<li>Get access to <strong>YouTube Music</strong>—the ultimate music streaming service with millions of songs, albums, playlists, and music videos. No ads, offline downloads, and background play come as part of this service.</li>
+</ul>
+</li>
+<li>
+<p><strong>YouTube Originals:</strong></p>
+<ul>
+<li>Enjoy exclusive access to YouTube Originals, including series, movies, and documentaries created by popular YouTubers and other renowned creators.</li>
+</ul>
+</li>
+<li>
+<p><strong>Family Plan:</strong></p>
+<ul>
+<li>Share your subscription with up to 5 family members on a single plan. Everyone can enjoy their own individual premium experience across devices.</li>
+</ul>
+</li>
+<li>
+<p><strong>High-Quality Video Streaming:</strong></p>
+<ul>
+<li>Watch videos in the highest quality available—up to 4K resolution—without the interruptions of ads, giving you an enhanced viewing experience.</li>
+</ul>
+</li>
+<li>
+<p><strong>Affordable Pricing for Bangladesh:</strong></p>
+<ul>
+<li>FanflixBD offers YouTube Premium at a cost-effective rate, making it an accessible option for users in Bangladesh. No hidden charges or additional fees—just a straightforward subscription service.</li>
+</ul>
+</li>
+</ol>
+<h3>Why Choose FanflixBD for Your YouTube Premium Subscription?</h3>
+<ol>
+<li>
+<p><strong>Secure Payment Options:</strong></p>
+<ul>
+<li>FanflixBD offers multiple secure payment methods, including local payment gateways, ensuring a hassle-free subscription experience.</li>
+</ul>
+</li>
+<li>
+<p><strong>Instant Activation:</strong></p>
+<ul>
+<li>Once you subscribe via FanflixBD, your YouTube Premium account is activated instantly, giving you immediate access to all the premium features.</li>
+</ul>
+</li>
+<li>
+<p><strong>Dedicated Customer Support:</strong></p>
+<ul>
+<li>FanflixBD provides reliable customer support for any subscription issues or questions. They are ready to assist you at any time.</li>
+</ul>
+</li>
+<li>
+<p><strong>Tailored for Bangladesh:</strong></p>
+<ul>
+<li>FanflixBD’s service is specifically designed for Bangladeshi users, offering pricing and features that cater to local needs and preferences.</li>
+</ul>
+</li>
+</ol>
+<h3>How to Subscribe to YouTube Premium via FanflixBD?</h3>
+<ol>
+<li>Visit the <strong>FanflixBD website</strong>.</li>
+<li>Select <strong>YouTube Premium Subscription</strong>.</li>
+<li>Choose your preferred payment method.</li>
+<li>Complete the payment process.</li>
+<li>Your YouTube Premium subscription will be activated, and you'll receive a confirmation.</li>
+</ol>
+<h3>Enjoy the Best YouTube Experience Today!</h3>
+<p>Stop waiting and start enjoying an uninterrupted YouTube experience. With <strong>FanflixBD</strong>, getting YouTube Premium in Bangladesh has never been easier or more affordable. Sign up today and enjoy all the premium features, including ad-free videos, background play, offline downloads, and much more!</p>
+<h4><strong>Don't miss out on the best YouTube experience. Subscribe now via FanflixBD and take your entertainment to the next level!</strong></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8640055967893</id>
+      <title>6 Months</title>
+      <s:price currency="BDT">1299.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8640055967893</id>
+      <title>12 Months</title>
+      <s:price currency="BDT">2200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8619434541205</id>
+    <published>2024-09-22T11:51:29+06:00</published>
+    <updated>2024-09-22T11:51:29+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/buy-chatgpt-plus-subscription-price-in-bangladesh-with-bkash-nagad"/>
+    <title>ChatGPT Plus Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/chatgpt-plus_subscription_bd.jpg?v=1729878863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            399.00 - 1899.00
+            <a href="https://www.fanflixbd.com/products/buy-chatgpt-plus-subscription-price-in-bangladesh-with-bkash-nagad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Get ChatGPT Plus Shared Subscription in Bangladesh with FanFlixBD</h2>
+<p>Are you looking for a more powerful AI assistant for your daily tasks, creative writing, or learning needs? With the <strong>ChatGPT Plus subscription</strong>, you unlock enhanced capabilities for smoother conversations, faster response times, and priority access to new features, all offered by OpenAI's cutting-edge language model.</p>
+<h3>Why Choose ChatGPT Plus?</h3>
+<p>The <strong>ChatGPT Plus</strong> subscription provides users with a premium experience beyond the free version. Here's why you should consider upgrading:</p>
+<ul>
+<li>
+<p><strong>Faster Response Times</strong>: Enjoy quicker responses, even during peak usage times. No more waiting when you need immediate answers.</p>
+</li>
+<li>
+<p><strong>Priority Access to New Features</strong>: Be the first to experience the latest tools and innovations from OpenAI as they roll out.</p>
+</li>
+<li>
+<p><strong>More Reliable Access</strong>: Get uninterrupted service, especially when the platform is under heavy usage.</p>
+</li>
+</ul>
+<h3>ChatGPT Plus Subscription Pricing</h3>
+<p>At FanFlixBD, we offer ChatGPT Plus subscriptions with hassle-free payment options. Here's the pricing breakdown for our customers in Bangladesh:</p>
+<ul>
+<li>
+<strong>Monthly Subscription</strong>: Get ChatGPT Plus for a low fee of <strong>BDT 550/month</strong> with fast activation.</li>
+</ul>
+<h3>Payment Options</h3>
+<p>FanFlixBD makes it easy to purchase your ChatGPT Plus subscription with local payment methods, including <strong>Bkash, Nagad, Rocket</strong>, and bank transfers.</p>
+<h3>How to Subscribe</h3>
+<ol>
+<li>
+<strong>Visit FanFlixBD</strong>: Go to our <a href="#"><span>ChatGPT</span><span> Plus</span><span> Subscription</span><span> Page</span></a>.</li>
+<li>
+<strong>Select Your Plan</strong>: Choose the monthly subscription plan.</li>
+<li>
+<strong>Payment</strong>: Pay easily via Bkash, Nagad, or Rocket.</li>
+<li>
+<strong>Activation</strong>: Your subscription will be activated promptly, giving you instant access to premium AI assistance.</li>
+</ol>
+<h3>Conclusion</h3>
+<p>With ChatGPT Plus from FanFlixBD, you unlock the best features and support from one of the most advanced AI systems available. Say goodbye to slow responses and experience a premium, seamless conversation with ChatGPT Plus. <strong>Subscribe now</strong> and get the best AI service in Bangladesh today!</p>
+<hr>
+<p><strong>Tags</strong>: ChatGPT Plus Subscription, Buy ChatGPT Plus Bangladesh, AI Assistant Subscription, FanFlixBD ChatGPT Plus, Fast AI Responses, ChatGPT Plus Price</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8619434541205</id>
+      <title>1 Month Shared</title>
+      <s:price currency="BDT">399.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8619434541205</id>
+      <title>1 Month Personal Mail</title>
+      <s:price currency="BDT">1899.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8586661855381</id>
+    <published>2024-08-15T12:27:54+06:00</published>
+    <updated>2024-08-15T12:27:54+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/google-one-subscription-bd"/>
+    <title>Google One Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FanflixBD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/google-one-subscription-in-bd.png?v=1730866833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FanflixBD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00 - 17999.00
+            <a href="https://www.fanflixbd.com/products/google-one-subscription-bd">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buying Google Drive/One/Photos with Bangladeshi cards is tough due to payment issues. We offer a safe, hassle-free solution.</strong></p>
+<p><strong>Our Process:</strong></p>
+<ul>
+<li>We’ll purchase the package using a new Gmail.</li>
+<li>Send you a family invitation to your Gmail.</li>
+<li>Accept it to activate the package.</li>
+</ul>
+<p> <span>⚠️ </span><strong>Note: Gmail passwords may be needed in rare cases. Privacy is 100% secure.</strong></p>
+<p> </p>
+<p><strong>Google One Subscription in BD: Affordable Cloud Storage Solutions via FanFlixBD</strong><br><span></span></p>
+<p>Expand your cloud storage with <strong>Google One Subscription in BD</strong>, now available in <strong>FanFlixBD</strong>. Whether you're looking for a little extra space for personal use or need comprehensive cloud storage for your family or business, Google One has flexible storage plans that meet every need. With options ranging from 100GB to 5TB, enjoy seamless access across all Google services, plus premium benefits and support.</p>
+<h3>
+<span data-sheets-root="1">Google One Storage Plans</span> in Bangladesh:</h3>
+<ol>
+<li>
+<p><strong>100GB Plan ( Personal Storage):</strong><br>This basic plan is ideal for personal storage needs—keep all your photos, videos, documents, and Gmail backups without worrying about space limits.</p>
+</li>
+<li>
+<p><strong>200GB Plan (Families and Professionals):</strong><br>The 200GB plan offers double the space, perfect for families, freelancers, or small businesses. Share with up to 5 family members, each getting their own storage for files, photos, and backups.</p>
+</li>
+<li>
+<p><strong>2TB Plan (Media Lovers and Heavy Users):</strong><br>The 2TB plan is ideal for heavy users handling high-res photos, 4K videos, and large backups, with plenty of space and extra Google perks.</p>
+</li>
+<li>
+<p><strong>5TB Plan (Power Users and Businesses):</strong><br>Perfect for power users and pros, the 5TB plan provides plenty of room for large files, high-quality media, and extensive backups—no need to worry about running out of space.</p>
+</li>
+</ol>
+<h3>Why Choose Google One Plans?</h3>
+<ul>
+<li>
+<strong>Cross-Platform Storage</strong>: Store and sync files across Google Drive, Gmail, and Google Photos, ensuring all your essential data is safe, accessible, and backed up.</li>
+<li>
+<strong>Family Sharing</strong>: Share your storage plan with up to 5 family members, each having their own private space with no interference in each other's files.</li>
+<li>
+<strong>Exclusive Google Benefits</strong>: Get special perks like discounts on Google products, Play Store purchases, and select Google services that enhance your subscription value.</li>
+<li>
+<strong>Premium Google Support</strong>: As a Google One member, get quick access to Google's support team for help with any Google services or technical issues.</li>
+<li>
+<strong>Automatic Device Backup</strong>: Protect your important data—like contacts, photos, and settings—by backing them up automatically across your devices. Your phone, tablet, or laptop will always be safe.</li>
+</ul>
+<h3>How to Buy Google One Subscriptions in BD from FanFlixBD?</h3>
+<p>Buying a <strong>Google One subscription</strong> <strong>in Bangladesh</strong> through <strong>FanFlixBD</strong> is simple and secure. Here’s how:</p>
+<ol>
+<li>Select the storage plan that best suits your needs (100GB, 200GB, 2TB, or 5TB).</li>
+<li>The subscription will be linked directly to <strong>your existing Google account</strong>.</li>
+<li>Complete your purchase via <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong>, offering secure and fast transactions.</li>
+<li>
+<strong>Instant activation</strong>: After successful payment, your Google One subscription will be immediately activated, ready to use across your devices.</li>
+</ol>
+<h3>Why Buy Google One Subscription from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive rates for all <strong>Google One plans in Bangladesh</strong>, making premium cloud storage accessible for everyone.</li>
+<li>
+<strong>Secure and Easy Payments</strong>: Use popular and secure payment options like <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong> for smooth transactions without the need for a credit card.</li>
+<li>
+<strong>Instant Delivery</strong>: Enjoy fast and hassle-free activation after completing your payment.</li>
+<li>
+<strong>Trusted Service</strong>: NetflixBD is a trusted source for digital subscriptions, ensuring quality service and genuine accounts for all its customers.</li>
+</ul>
+<h3>Start Your Google One Journey Today!</h3>
+<p>Expand your Google storage capacity today with <strong>FanFlixBD</strong> and ensure your data is backed up securely, accessible from any device, and organized in the cloud. Whether for personal, family, or business use, <strong>Google One</strong> has the right plan for you.</p>
+<p><strong>Tags</strong>: Google One Subscription Bangladesh, Buy Google One 100GB, Google One 200GB Price BD, Google One 2TB Price in Bangladesh, Buy Google One 5TB with Bkash, Google Cloud Storage BD, FanFlixBD Google One Subscription</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 100GB</title>
+      <s:price currency="BDT">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 200GB</title>
+      <s:price currency="BDT">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 400GB</title>
+      <s:price currency="BDT">3499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 1TB</title>
+      <s:price currency="BDT">4499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 2TB</title>
+      <s:price currency="BDT">7299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 1 Year) / 5 TB</title>
+      <s:price currency="BDT">17999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 100GB</title>
+      <s:price currency="BDT">2999.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 200GB</title>
+      <s:price currency="BDT">4499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 400GB</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 1TB</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 2TB</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8586661855381</id>
+      <title>Family Invitation ( 2 Year) / 5 TB</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8529583472789</id>
+    <published>2024-06-30T22:49:58+06:00</published>
+    <updated>2024-06-30T22:49:58+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/ullu-subscription-bangladesh"/>
+    <title>Ullu Premium Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/ullu-price_in_bangldesh.jpg?v=1729881501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy Ullu Premium Subscription in Bangladesh – Exclusive Content at Your Fingertips via FanFlixBD</strong></p>
+<p><strong>Ullu</strong> is a popular streaming platform known for its bold and original content, including web series, movies, and shows across various genres. With an <strong>Ullu Premium</strong> subscription, you gain access to a vast library of exclusive content, ensuring you never run out of entertainment.</p>
+<h3>Why Choose Ullu Premium?</h3>
+<p>An Ullu Premium subscription provides numerous benefits for avid viewers:</p>
+<ul>
+<li>
+<strong>Exclusive Originals</strong>: Enjoy a wide range of Ullu Originals, including thrilling series and captivating movies not available anywhere else.</li>
+<li>
+<strong>Ad-Free Experience</strong>: Stream your favorite shows and movies without any interruptions from advertisements.</li>
+<li>
+<strong>High-Quality Streaming</strong>: Experience your content in high definition, ensuring a visually stunning viewing experience.</li>
+<li>
+<strong>Offline Downloads</strong>: Download your favorite shows and movies to watch offline, perfect for on-the-go entertainment.</li>
+<li>
+<strong>Multiple Genres</strong>: Explore a diverse selection of content, including drama, romance, horror, and more, catering to all tastes.</li>
+</ul>
+<h3>How to Buy Ullu Premium from FanFlixBD?</h3>
+<p>Purchasing an Ullu Premium subscription from <strong>FanFlixBD</strong> is quick and easy:</p>
+<ol>
+<li>
+<strong>Select Ullu Premium Plan</strong>: Choose the Ullu Premium subscription option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Complete your payment using Bkash, Nagad, or Rocket, making it hassle-free for users in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Your Ullu Premium subscription will be activated immediately after payment confirmation and sent to your personal email.</li>
+</ol>
+<h3>Why Buy Ullu Premium from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices for Ullu Premium subscriptions, giving you great value for your entertainment.</li>
+<li>
+<strong>Secure Local Payments</strong>: Enjoy easy payments without the need for international credit cards or complicated payment processes.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your Ullu activation details promptly after payment, so you can start streaming without delay.</li>
+<li>
+<strong>Customer Support</strong>: Our dedicated support team is ready to assist you with any questions or issues regarding your subscription.</li>
+</ul>
+<h3>Features of Ullu Premium Subscription:</h3>
+<ul>
+<li>
+<strong>Unlimited Streaming</strong>: Access all content without any restrictions on views.</li>
+<li>
+<strong>Personalized Recommendations</strong>: Get tailored content suggestions based on your viewing preferences.</li>
+<li>
+<strong>User-Friendly Interface</strong>: Navigate easily through the app to find your favorite shows and movies.</li>
+</ul>
+<h3>How to Activate Ullu Premium?</h3>
+<ol>
+<li>Download the Ullu app from your device's app store.</li>
+<li>Log in to your account using the credentials provided after purchase.</li>
+<li>Start exploring the extensive library of Ullu content!</li>
+</ol>
+<h3>Get Ullu Premium Subscription Today!</h3>
+<p>Dive into the world of exclusive entertainment with <strong>Ullu Premium</strong>. Purchase your subscription from <strong>FanFlixBD</strong> today and enjoy unlimited access to captivating content!</p>
+<hr>
+<p><strong>Tags</strong>: Ullu Premium, Buy Ullu, Ullu Subscription Bangladesh, Streaming Service, FanFlixBD Ullu, Exclusive Content, Offline Downloads, Affordable Entertainment</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8529583472789</id>
+      <title>Default Title</title>
+      <s:price currency="BDT">449.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8455287308437</id>
+    <published>2024-05-21T00:34:07+06:00</published>
+    <updated>2024-05-21T00:34:07+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/internet-download-manager-idm-lifetime-license-key-price-bangladesh"/>
+    <title>Internet Download Manager (IDM)- Lifetime License Key</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/internet-download_manager_price_in_bangaldesh.jpg?v=1729880307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy IDM Lifetime Subscription in Bangladesh – Fast &amp; Secure Download Manager via FanFlixBD</strong></p>
+<p><strong>Internet Download Manager (IDM)</strong> is one of the most popular download managers globally, known for its lightning-fast download speeds and reliability. With an <strong>IDM Lifetime Subscription</strong>, users get lifetime access to IDM’s premium features, ensuring they never have to worry about download limits or interruptions again. FanFlixBD offers a hassle-free way to purchase IDM Lifetime subscriptions in Bangladesh with local payment options.</p>
+<h3>Why Choose IDM Lifetime Subscription?</h3>
+<p>IDM Lifetime provides users with an efficient and feature-packed solution for managing downloads. Here are the key advantages of having an IDM Lifetime subscription:</p>
+<ul>
+<li>
+<strong>Faster Download Speeds</strong>: IDM boosts your download speed by up to 5 times by utilizing intelligent dynamic file segmentation and safe multipart downloading.</li>
+<li>
+<strong>Pause and Resume Downloads</strong>: You can pause and resume downloads at any time, ensuring you never lose progress even if your internet connection is interrupted.</li>
+<li>
+<strong>Schedule Downloads</strong>: Plan and schedule your downloads for later times, helping you manage your bandwidth and download large files when it’s convenient.</li>
+<li>
+<strong>Batch Downloads</strong>: Download multiple files simultaneously with IDM’s batch downloading feature, saving you time and effort.</li>
+<li>
+<strong>Browser Integration</strong>: IDM seamlessly integrates with all popular web browsers, including Chrome, Firefox, Edge, and Safari, making it easy to download any file directly from the browser.</li>
+<li>
+<strong>No Expiry</strong>: With the Lifetime plan, you get access to all IDM updates and features forever without worrying about subscription renewals.</li>
+</ul>
+<h3>How to Buy IDM Lifetime from FanFlixBD?</h3>
+<p>Buying an <strong>IDM Lifetime Subscription</strong> from <strong>FanFlixBD</strong> is quick and easy:</p>
+<ol>
+<li>
+<strong>Select IDM Lifetime Plan</strong>: Choose the <strong>IDM Lifetime Subscription</strong> option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Pay using <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong>, making it easy for users in Bangladesh to complete the transaction.</li>
+<li>
+<strong>Instant Activation</strong>: Once your payment is confirmed, your IDM subscription will be activated immediately.</li>
+</ol>
+<h3>Why Buy IDM Lifetime from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers IDM Lifetime at competitive prices for users in Bangladesh.</li>
+<li>
+<strong>Secure Local Payments</strong>: Pay via <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong>, with no need for international credit cards or complicated payment processes.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your IDM Lifetime activation details promptly after payment, ensuring you can start using IDM without delay.</li>
+<li>
+<strong>Customer Support</strong>: If you have any issues or questions, FanFlixBD’s support team is ready to assist.</li>
+</ul>
+<h3>Features of IDM Lifetime Subscription:</h3>
+<ul>
+<li>
+<strong>Unlimited Downloads</strong>: Download as many files as you want without restrictions.</li>
+<li>
+<strong>Automatic Virus Protection</strong>: IDM scans your files for viruses after downloading to keep your system safe.</li>
+<li>
+<strong>Support for All File Types</strong>: Download videos, music, documents, and software from any website.</li>
+<li>
+<strong>Supports All Browsers</strong>: IDM integrates with all modern browsers, making it easy to manage your downloads across platforms.</li>
+</ul>
+<h3>How to Activate IDM?</h3>
+<ol>
+<li>Download the latest version of <strong>Internet Download Manager (IDM)</strong> from the official website.</li>
+<li>Install the software and open it.</li>
+<li>Enter the license key provided by <strong>FanFlixBD</strong> after purchase.</li>
+<li>Enjoy IDM’s full premium features with lifetime access.</li>
+</ol>
+<h3>Get IDM Lifetime Subscription Today!</h3>
+<p>Say goodbye to slow downloads and interruptions! With the <strong>IDM Lifetime Subscription</strong>, you get the best download speeds, unlimited access, and seamless downloads for life. Purchase your IDM subscription from <strong>FanFlixBD</strong> today and experience the power of a premium download manager.</p>
+<hr>
+<p><strong>Tags</strong>: IDM Lifetime Subscription, Buy IDM Lifetime, IDM Bangladesh, IDM License Key, Internet Download Manager, FanFlixBD IDM, Download Manager, IDM Lifetime Price Bangladesh, IDM Bkash Payment</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8455287308437</id>
+      <title>Default Title</title>
+      <s:price currency="BDT">2249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8439039000725</id>
+    <published>2024-05-14T00:41:40+06:00</published>
+    <updated>2024-05-14T00:41:40+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/crunchyroll-premium-subscription-bangladesh"/>
+    <title>Crunchyroll Subscription in Bangladesh</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Crunchyroll-subscription_in-bangladesh.jpg?v=1731514522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00 - 899.00
+            <a href="https://www.fanflixbd.com/products/crunchyroll-premium-subscription-bangladesh">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Crunchyroll Shared Subscription in Bangladesh – Unlimited Anime on FanFlixBD</h2>
+<p>Experience the best anime streaming service with Crunchyroll, now available in Bangladesh through <strong>FanFlixBD</strong>. With a <strong>Crunchyroll Subscription in Bangladesh</strong>, you can enjoy access to an extensive collection of anime, Asian dramas, and manga. Stream your favorite anime shows without interruptions, in HD, and with the latest simulcasts from Japan.</p>
+<h3>Why Choose Crunchyroll Premium in BD?</h3>
+<p><strong>1. Unlimited Access</strong>: Stream over 1,000 anime titles, including top shows like Naruto, One Piece, Attack on Titan, and Demon Slayer.</p>
+<p><strong>2. No Ads</strong>: Enjoy seamless, ad-free streaming for an uninterrupted viewing experience.</p>
+<p><strong>3. Simulcast from Japan</strong>: Watch the latest anime episodes just one hour after they air in Japan.</p>
+<p><strong>4. HD and Full HD Streaming</strong>: Get the best visual experience with HD quality.</p>
+<p><strong>5. Exclusive Content</strong>: Access Crunchyroll Originals, Asian dramas, and manga, only available to Premium users.</p>
+<h3>Crunchyroll Premium Subscription Pricing at FanFlixBD</h3>
+<p>At FanFlixBD, we offer the <strong>Crunchyroll Premium subscription</strong> at unbeatable prices for Bangladesh:</p>
+<ul>
+<li>
+<strong>6 Months Shared Subscription</strong>: 499<strong>৳</strong>
+</li>
+<li>
+<strong>1 Year Shared Subscription</strong>: 899<strong>৳</strong>
+</li>
+</ul>
+<h3>How to Buy Crunchyroll Subscription in BD?</h3>
+<p>Subscribing to Crunchyroll Premium in BD through FanFlixBD is simple and secure. Here's how you can get started:</p>
+<p><strong>⇒</strong>Purchase the <strong>6-month</strong> or <strong>1-year </strong>Crunchyroll Premium Subscription from FanFlixBD.</p>
+<p><strong>⇒</strong>Pay securely via <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong> for fast, hassle-free transactions.</p>
+<h3>Why Choose FanFlixBD for Crunchyroll Premium?</h3>
+<p><strong>-Affordable Pricing</strong>: Enjoy Crunchyroll Premium at the best rates in Bangladesh.</p>
+<p><strong>-Instant Activation</strong>: Get access to premium features on your Crunchyroll account right after payment.</p>
+<p><strong>-Secure Payment Options</strong>: Pay via Bkash, Nagad, or Rocket for a smooth and secure purchase process.</p>
+<p>Enjoy your favorite anime series without delays or ads. Subscribe to Crunchyroll Premium through FanFlixBD and dive into the world of anime today!</p>
+<hr>
+<p><strong>Tags</strong>: Crunchyroll Subscription Bangladesh, Crunchyroll Premium BD, Crunchyroll Price Bangladesh, Buy Crunchyroll with Bkash, Crunchyroll Premium Price BD, Watch Anime Bangladesh, Crunchyroll Simulcast BD, Crunchyroll Subscription FanFlixBD</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crunchyroll</s:tag>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8439039000725</id>
+      <title>6 Month -Shared</title>
+      <s:price currency="BDT">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8439039000725</id>
+      <title>12 Month - Shared</title>
+      <s:price currency="BDT">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8434184585365</id>
+    <published>2024-05-11T21:42:31+06:00</published>
+    <updated>2024-05-11T21:42:31+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/netflix-amazon-prime-subscription-bd"/>
+    <title>Netflix &amp; Prime Video Combo (TV Plan+All Device)</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Netflix-and_prime_combo_subscription_price_in_bd.jpg?v=1729880958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            489.00 - 1449.00
+            <a href="https://www.fanflixbd.com/products/netflix-amazon-prime-subscription-bd">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Package Details:</h2>
+<ul>
+<li>Premium Package For <strong>TV+ All Devices </strong>
+</li>
+<li>Video Quality: <strong>4K ULTRA HD</strong>
+</li>
+<li><strong>HOUSEHOLD ISSUES MAY ARISE </strong></li>
+<li>One Dedicated Profile</li>
+<li>PIN locked.</li>
+<li>Maximum Login <strong>2 Devices.</strong>
+</li>
+<li>Streaming from 1 device at a time.</li>
+<li>Renewable pack.</li>
+<li>Full period Warranty.</li>
+</ul>
+<h2>
+<br>Netflix and Amazon Prime Subscription in Bangladesh – Experience via FanFlixBD</h2>
+<p>Unlock a world of entertainment with our exclusive <strong>Netflix and Amazon Prime Subscription in Bangladesh!</strong> This fantastic offer combines two of the most popular streaming platforms, providing access to a vast array of movies, TV shows, documentaries, and original series—all at an unbeatable price.</p>
+<h3>Why Choose the Netflix Amazon Prime Combo?</h3>
+<h4>1. Extensive Content Libraries</h4>
+<ul>
+<li>
+<p><strong>Netflix</strong>: Immerse yourself in a rich library that includes:</p>
+<ul>
+<li>
+<strong>Original Series</strong>: Watch critically acclaimed shows like "Stranger Things," "The Crown," and "Money Heist."</li>
+<li>
+<strong>Movies</strong>: Enjoy a selection of films, from timeless classics to the latest blockbusters, including exclusive Netflix Originals.</li>
+<li>
+<strong>Regional Content</strong>: Explore popular Indian dramas, comedies, and films tailored to local tastes.</li>
+</ul>
+</li>
+<li>
+<p><strong>Amazon Prime Video</strong>: Enjoy an equally diverse collection:</p>
+<ul>
+<li>
+<strong>Amazon Originals</strong>: Access award-winning series like "The Marvelous Mrs. Maisel," "The Boys," and "Fleabag."</li>
+<li>
+<strong>Movies &amp; Documentaries</strong>: Discover a wide range of films across various genres, as well as engaging documentaries on a multitude of topics.</li>
+<li>
+<strong>Exclusive Regional Programming</strong>: Enjoy regional shows and films that celebrate local culture and storytelling.</li>
+</ul>
+</li>
+</ul>
+<h4>2. Ad-Free Viewing Experience</h4>
+<p>Both Netflix and Amazon Prime Video offer ad-free streaming, allowing you to watch your favorite content without interruptions. Binge-watch your shows or enjoy movies with no commercial breaks.</p>
+<h4>3. High-Quality Streaming</h4>
+<ul>
+<li>
+<strong>4K UHD Content</strong>: Experience the beauty of high-definition streaming with select titles available in stunning 4K resolution on both platforms. Perfect for your home theater setup!</li>
+<li>
+<strong>Multiple Screens</strong>: Enjoy the flexibility of streaming on different devices simultaneously, whether it’s your TV, tablet, or smartphone.</li>
+</ul>
+<h3>Affordable Netflix and Prime Combo Pricing</h3>
+<p>Our <strong>Netflix and Prime Combo</strong> provide exceptional value for your entertainment budget. <span style="box-sizing: border-box; margin: 0px; padding: 0px;">You gain access to both services</span>. This combo saves you money and expands your viewing options significantly.</p>
+<h3>Hassle-Free Payment Options</h3>
+<p>Purchasing your Combo Plan through <strong>FanFlixBD</strong> is seamless and secure. We accept a variety of local payment methods, including:</p>
+<ul>
+<li><strong>Bkash</strong></li>
+<li><strong>Nagad</strong></li>
+<li><strong>Rocket</strong></li>
+<li><strong>Upay</strong></li>
+<li><strong>Bank Transfers</strong></li>
+</ul>
+<p>This means no need for international credit cards—simply choose your preferred payment method and enjoy instant access to both platforms!</p>
+<h3>Why Buy Netflix and Prime Subscription Combo from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Convenient Subscription Process</strong>: Our website is designed for easy navigation, making it simple to choose your Combo Plan and complete your purchase in just a few clicks.</li>
+<li>
+<strong>Instant Activation</strong>: Your subscriptions are activated immediately after payment, so you can start streaming without delay.</li>
+<li>
+<strong>Dedicated Customer Support</strong>: Our friendly support team is ready to help you with any questions or concerns about your subscription.</li>
+</ul>
+<h3>How to Subscribe to the Netflix &amp; Amazon Prime Video Combo Plan</h3>
+<ol>
+<li>
+<strong>Visit FanFlixBD.com</strong>: Navigate to our Combo Plan subscription page.</li>
+<li>
+<strong>Select Your Plan</strong>: Choose the Netflix and Amazon Prime Video Combo option.</li>
+<li>
+<strong>Complete Your Payment</strong>: Use one of our local payment methods to finalize your purchase.</li>
+<li>
+<strong>Start Streaming</strong>: Enjoy instant access to both platforms and dive into a world of entertainment!</li>
+</ol>
+<h3>Unlock Endless Entertainment Today!</h3>
+<p>Don’t miss out on the ultimate streaming experience! With the <strong style="font-size: 0.875rem;">Netflix and Amazon Prime Subscription in Bangladesh</strong> from <strong>FanFlixBD</strong>, you’ll have access to a treasure trove of captivating shows and movies. Subscribe today and transform your viewing habits with the best in entertainment!</p>
+<p><strong>অর্ডার করার পূর্বে সকল ডিটেলস অবশ্যই ভালোকরে পড়ে নিবেন!</strong></p>
+<ul>
+<li style="text-align: left;">ডেলিভারি টাইম 3 Hour Maximum.</li>
+<li style="text-align: left;">আর্জেন্ট ডেলিভারি কোনভাবে সম্ভব নয়!</li>
+<li style="text-align: left;">আপনার অর্ডার নির্ধারিত সময়ের মধ্যে আপনার <a href="https://wa.me/message/YCBSFN3TE4PEM1">হোয়াটসঅ্যাপ</a> নাম্বারে মেসেজ এর মাধ্যমে জানিয়ে দেওয়া হবে!</li>
+<li style="text-align: left;">আমাদের সার্ভিস টাইম সকাল ১২ টা থেকে রাত ১ টা পর্যন্ত!</li>
+<li style="text-align: left;">রাত ১টার পর কোনো অর্ডার করা হলে তা সকাল ১২ টার পর থেকে প্রসেস করা হবে!</li>
+</ul>
+<p><strong>Package Details:</strong></p>
+<ul>
+<li><span>Premium Package</span></li>
+<li><span>Video Quality: 4K ULTRA HD</span></li>
+<li><span>One Dedicated Profile</span></li>
+<li><span>PIN locked.</span></li>
+<li><span>Maximum Login 2 Devices.</span></li>
+<li><span>Streaming from 1 device at a time.</span></li>
+<li><span>Renewable pack.</span></li>
+<li><span>Full period Warranty.</span></li>
+</ul>
+<hr>
+<p><strong>Tags</strong>: Netflix and Amazon Prime Video Combo, Streaming Bundle Bangladesh, FanFlixBD Combo Plan, Affordable Streaming Services, Netflix Subscription, Amazon Prime Subscription, Local Payment for Streaming</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Netflix</s:tag>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8434184585365</id>
+      <title>1 Month || 1 Screen</title>
+      <s:price currency="BDT">489.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8434184585365</id>
+      <title>3 Month || 1 Screen</title>
+      <s:price currency="BDT">1449.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8434178785429</id>
+    <published>2024-05-11T21:39:13+06:00</published>
+    <updated>2024-05-11T21:39:13+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/netflix-tv-plan-subscription-bd"/>
+    <title>Netflix Subscription (TV Plan+All Device)</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Netflix-tv-plan-subscription-bd.jpg?v=1731519000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            449.00 - 1339.00
+            <a href="https://www.fanflixbd.com/products/netflix-tv-plan-subscription-bd">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Package Details:</h2>
+<ul>
+<li>Premium Package For <strong>TV+ All Devices </strong>
+</li>
+<li>Video Quality: <strong>4K ULTRA HD</strong>
+</li>
+<li><strong>HOUSEHOLD ISSUES MAY ARISE </strong></li>
+<li>One Dedicated Profile</li>
+<li>PIN locked.</li>
+<li>Maximum Login <strong>2 Devices.</strong>
+</li>
+<li>Streaming from 1 device at a time.</li>
+<li>Renewable pack.</li>
+<li>Full period Warranty.</li>
+</ul>
+<h2>
+<br>Netflix TV Plan subscription in Bangladesh –  via FanFlixBD</h2>
+<p> </p>
+<p>Netflix TV Plan subscription in Bangladesh is available through FanFlixBD, a trusted source for digital subscriptions. As a globally recognized streaming service with over 130 million subscribers, Netflix has transformed entertainment in Bangladesh since its launch in December 2016, offering a vast library of movies, TV shows, documentaries, and original series for viewers to enjoy.</p>
+<p> </p>
+<h3>Why Buy Netflix TV S<span data-sheets-root="1">ubscription Plan</span>?</h3>
+<p> </p>
+<p>With a Netflix subscription, you gain access to:</p>
+<p><strong>1. Vast Content Library:</strong> Explore thousands of titles, including thrilling dramas, hilarious comedies, gripping documentaries, and award-winning original content. There's something for every taste.</p>
+<p><br><strong>2. Popular Indian Shows:</strong> Enjoy a rich selection of Indian language TV shows and movies, catering to local preferences.</p>
+<p><br><strong>3. Ad-Free Streaming:</strong> Experience uninterrupted viewing without ads, allowing you to binge-watch your favorite shows at your convenience.</p>
+<p><br><strong>4. High-Quality Streaming:</strong> We offer every screen option in stunning 4K resolution, providing a cinematic experience right in your living room.</p>
+<p> </p>
+<h3>Affordable <span data-sheets-root="1">Netflix Subscription for TV</span>
+</h3>
+<p> </p>
+<p>At FanFlixBD, we provide flexible pricing options for Netflix subscriptions, ensuring that everyone can enjoy high-quality streaming:</p>
+<p><strong>⇒Premium Plan:</strong> 4K Quality (Every screen option available)</p>
+<p>Choose the plan that best fits your viewing habits and enjoy the ultimate streaming experience in 4K.</p>
+<p> </p>
+<h3>Payment Methods for Netflix TV Plan</h3>
+<p> </p>
+<p>Purchasing your <span data-sheets-root="1">Netflix TV subscription</span> through FanFlixBD is straightforward. We support a variety of local payment methods, including:</p>
+<p><strong>-Bkash</strong><br><strong>-Nagad</strong><br><strong>-Rocket</strong><br><strong>-Upay</strong><br><strong>-Bank Transfers</strong></p>
+<p>This eliminates the need for international credit cards, making the process more convenient and secure for Bangladeshi users.</p>
+<p> </p>
+<h3>Why Choose FanFlixBD for Netflix TV Subscription In Bangladesh?</h3>
+<p><br><strong>-User-Friendly Experience:</strong> Our website is designed for easy navigation, making the subscription process simple and intuitive.</p>
+<p><br><strong>-Instant Activation: </strong>Enjoy immediate access to Netflix’s extensive library as soon as you complete your purchase.</p>
+<p><br><strong>-Local Support:</strong> Our dedicated customer service team is here to assist you with any questions regarding your subscription.</p>
+<h3>
+<br>How to Subscribe to Netflix via FanFlixBD</h3>
+<p><br><strong>Visit FanFlixBD.com</strong> – Head to our Netflix subscription page.</p>
+<p><br><strong>Choose Your Plan</strong> – Select the Netflix plan that best suits your needs.</p>
+<p><br><strong>Make Your Payment</strong> – Complete your purchase using a convenient local payment option.</p>
+<p><br><strong>Start Watching</strong> – Enjoy instant access to Netflix’s full content library in stunning 4K quality!</p>
+<p> </p>
+<p><strong>Package Details:</strong></p>
+<p> </p>
+<p>Premium Package For TV+ All Devices&amp;nbsp;<br>Video Quality: 4K ULTRA HD<br>NO HOUSEHOLD ISSUES&amp;nbsp;<br>One Dedicated Profile<br>PIN locked.<br>Custom Name+Pin&amp;nbsp;<br>Maximum Login 3&amp;nbsp; Devices.<br>Streaming from 1 device at a time.<br>Renewable pack.<br>Full period Warranty.</p>
+<p> </p>
+<h4>Join the Netflix Revolution Today!</h4>
+<p> </p>
+<p>Don't miss out on the ultimate entertainment experience! With a Netflix subscription from FanFlixBD, you can dive into a world of captivating stories, inspiring documentaries, and binge-worthy series—all in glorious 4K. Subscribe today and elevate your streaming experience!</p>
+<p> </p>
+<p>Tags: Netflix Subscription Bangladesh, Buy Netflix in BDT, Netflix Plans, Stream in 4K, FanFlixBD Netflix, Affordable Netflix Subscription, Local Payment for Netflix</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Netflix</s:tag>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8434178785429</id>
+      <title>1 Month || 1 Screen</title>
+      <s:price currency="BDT">449.00</s:price>
+      <s:sku>NETFLIX-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8434178785429</id>
+      <title>3 Month || 1 Screen</title>
+      <s:price currency="BDT">1339.00</s:price>
+      <s:sku>NETFLIX-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8354291810453</id>
+    <published>2024-04-21T14:18:13+06:00</published>
+    <updated>2024-04-21T14:18:13+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/linkedin-premium-in-bd"/>
+    <title>Linkedin Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/linkedin-premium-in-bd.jpg?v=1731178589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3499.00 - 38000.00
+            <a href="https://www.fanflixbd.com/products/linkedin-premium-in-bd">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>LinkedIn Premium in BD – Boost Your Network with FanFlixBD</h2>
+<p>Unlock LinkedIn Premium's powerful features with <strong>FanFlixBD</strong> and grow your professional network in Bangladesh. Whether you’re a job seeker, recruiter, business professional, or sales expert, LinkedIn Premium has a plan for you, all available at <strong>affordable prices</strong> through FanFlixBD.</p>
+<h3>LinkedIn Premium Plans Available at FanFlixBD</h3>
+<h4><strong>Linkedin Premium Career</strong></h4>
+<ul>
+<li>
+<strong>Ideal for</strong>: Job seekers aiming to advance their careers.</li>
+<li>
+<strong>Features</strong>:
+<ul>
+<li>Access LinkedIn Learning courses.</li>
+<li>Send InMail messages to recruiters.</li>
+<li>See who viewed your profile.</li>
+<li>Gain enhanced job insights.</li>
+</ul>
+</li>
+</ul>
+<h4><strong>Linkedin Premium Business</strong></h4>
+<ul>
+<li>
+<strong>Ideal for</strong>: Professionals looking to expand their network.</li>
+<li>
+<strong>Features</strong>:
+<ul>
+<li>All Premium Career features.</li>
+<li>Unlimited browsing for people searches.</li>
+<li>Company insights.</li>
+<li>Extra InMail credits.</li>
+</ul>
+</li>
+</ul>
+<h4><strong>Linkedin Sales Navigator</strong></h4>
+<ul>
+<li>
+<strong>Ideal for</strong>: Sales professionals focused on lead generation.</li>
+<li>
+<strong>Features</strong>:
+<ul>
+<li>Advanced search for leads and companies.</li>
+<li>Real-time account and lead insights.</li>
+<li>CRM integration.</li>
+<li>Personalized recommendations.</li>
+</ul>
+</li>
+</ul>
+<h4><strong>Linkedin Recruiter Lite</strong></h4>
+<ul>
+<li>
+<strong>Ideal for</strong>: Recruiters and hiring managers.</li>
+<li>
+<strong>Features</strong>:
+<ul>
+<li>Advanced candidate search filters.</li>
+<li>Unlimited profile views.</li>
+<li>InMail outreach.</li>
+<li>Collaboration tools.</li>
+</ul>
+</li>
+</ul>
+<h3>Why LinkedIn Premium?</h3>
+<ol>
+<li>
+<strong>Job Search Boost</strong>: Access exclusive job listings and insights for a stronger job search.</li>
+<li>
+<strong>Networking Opportunities</strong>: Connect with industry professionals and grow your network.</li>
+<li>
+<strong>Learning Access</strong>: Thousands of LinkedIn Learning courses to enhance your skills.</li>
+<li>
+<strong>InMail Messaging</strong>: Reach out to decision-makers directly.</li>
+</ol>
+<h3>How to Buy LinkedIn Premium in Bangladesh with FanFlixBD?</h3>
+<ol>
+<li>
+<strong>Choose Your Plan</strong>: Select a LinkedIn Premium plan that best fits your goals.</li>
+<li>
+<strong>Easy Payments</strong>: Use local payment options like <strong>bKash, Nagad, or Rocket</strong> for a seamless transaction.</li>
+<li>
+<strong>Instant Activation</strong>: Your subscription is activated immediately upon payment confirmation.</li>
+</ol>
+<h3>Why FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: Get LinkedIn Premium at a competitive price tailored for Bangladesh.</li>
+<li>
+<strong>Local Payment Options</strong>: Pay conveniently with popular local methods.</li>
+<li>
+<strong>Fast Delivery</strong>: Receive your subscription details instantly after purchase.</li>
+<li>
+<strong>Reliable Support</strong>: Our team is ready to help with any subscription questions or concerns.</li>
+</ul>
+<h3>Start Your LinkedIn Premium Journey with FanFlixBD Today!</h3>
+<p>Upgrade your career with <strong>LinkedIn Premium in BD</strong>. From job seekers to business professionals, LinkedIn Premium opens doors to new opportunities. Purchase through FanFlixBD for hassle-free local payments and start enhancing your professional journey today!</p>
+<p><strong>Keywords</strong>: LinkedIn Premium in BD, LinkedIn Premium price Bangladesh, LinkedIn Premium plans, LinkedIn Business plan, LinkedIn Premium discount, LinkedIn Premium 6 months, LinkedIn Premium plan pricing</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8354291810453</id>
+      <title>LINKEDIN BUSINESS PREMIUM 6 MONTH</title>
+      <s:price currency="BDT">3499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8354291810453</id>
+      <title>LINKEDIN BUSINESS PREMIUM 12 MONTH</title>
+      <s:price currency="BDT">9900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8354291810453</id>
+      <title>LINKEDIN CAREER PREMIUM 12 MONTH</title>
+      <s:price currency="BDT">6500.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8354291810453</id>
+      <title>LINKEDIN SALES NAVIGATOR CORE 12 MONTH</title>
+      <s:price currency="BDT">38000.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8336765583509</id>
+    <published>2024-04-18T21:07:28+06:00</published>
+    <updated>2024-04-18T21:07:28+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/zee5-subscriptions"/>
+    <title>Zee5 Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/zee5-Price_in_bd.jpg?v=1729881710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00 - 1799.00
+            <a href="https://www.fanflixbd.com/products/zee5-subscriptions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy Zee5 Subscription in Bangladesh – Access Your Favorite Shows with a VPN via FanFlixBD</strong></p>
+<p><strong>Zee5</strong> is a popular streaming service offering a vast library of movies, TV shows, web series, and exclusive content across various genres. With a Zee5 subscription from <strong>FanFlixBD</strong>, you can enjoy premium entertainment from the comfort of your home. Please note that a VPN is required for users in Bangladesh to access Zee5’s content.</p>
+<h3>Why Choose Zee5?</h3>
+<p>Zee5 provides numerous benefits for streaming enthusiasts:</p>
+<ul>
+<li>
+<strong>Diverse Content Library</strong>: Access a wide variety of content, including Bollywood films, regional shows, and original series.</li>
+<li>
+<strong>Multiple Languages</strong>: Enjoy shows and movies in multiple languages, catering to diverse audience preferences.</li>
+<li>
+<strong>Ad-Free Experience</strong>: Stream your favorite content without interruptions from advertisements.</li>
+<li>
+<strong>Offline Downloads</strong>: Download content to watch offline, making it perfect for travel or areas with limited internet access.</li>
+<li>
+<strong>Exclusive Originals</strong>: Get access to Zee5 Originals, featuring unique stories and engaging characters.</li>
+</ul>
+<h3>How to Buy Zee5 Subscription from FanFlixBD?</h3>
+<p>Purchasing a Zee5 subscription from <strong>FanFlixBD</strong> is straightforward:</p>
+<ol>
+<li>
+<strong>Select Zee5 Subscription Plan</strong>: Choose the Zee5 subscription option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Pay using Bkash, Nagad, or Rocket for a hassle-free experience in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Your Zee5 subscription will be activated immediately after payment confirmation.</li>
+</ol>
+<h3>Using a VPN for Zee5</h3>
+<p>Since Zee5 is geo-restricted, a VPN is required for users in Bangladesh to access its content. Here’s how to set it up:</p>
+<ol>
+<li>
+<strong>Choose a Reliable VPN</strong>: Select a reputable VPN service like NordVPN or Surfshark.</li>
+<li>
+<strong>Install the VPN</strong>: Download and install the VPN application on your device.</li>
+<li>
+<strong>Connect to a Server</strong>: Connect to a server located in India to access Zee5.</li>
+<li>
+<strong>Log in to Zee5</strong>: Visit the Zee5 website or app and log in to start streaming.</li>
+</ol>
+<h3>Why Buy Zee5 from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices for Zee5 subscriptions, providing excellent value.</li>
+<li>
+<strong>Secure Transactions</strong>: Enjoy a safe shopping experience with local payment options.</li>
+<li>
+<strong>Customer Support</strong>: Our support team is available to assist you with any questions or issues regarding your subscription.</li>
+</ul>
+<h3>Get Your Zee5 Subscription Today!</h3>
+<p>Dive into a world of entertainment with <strong>Zee5</strong>. Purchase your subscription from <strong>FanFlixBD</strong> today and start enjoying a vast library of content!</p>
+<hr>
+<p><strong>Tags</strong>: Zee5 Subscription, Buy Zee5, Zee5 Bangladesh, Zee5 with VPN, FanFlixBD Zee5, Streaming Service, Offline Downloads, Exclusive Content</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8336765583509</id>
+      <title>6 Months + VPN</title>
+      <s:price currency="BDT">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8336765583509</id>
+      <title>12 Months + VPN (Personal Mail)</title>
+      <s:price currency="BDT">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8288409911445</id>
+    <published>2024-04-07T21:11:32+06:00</published>
+    <updated>2024-04-07T21:11:32+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/sonyliv-yearly"/>
+    <title>SonyLiv Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/sonyliv-subscription_price_in_bd.jpg?v=1729881183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy SonyLIV Premium Subscription in Bangladesh – Enjoy Unlimited Streaming via FanFlixBD</strong></p>
+<p><strong>SonyLIV</strong> is a popular streaming service that offers a vast collection of movies, TV shows, web series, sports, and original content. With a <strong>SonyLIV Premium</strong> subscription, you can unlock exclusive features and access a diverse range of entertainment options right from the comfort of your home.</p>
+<h3>Why Choose SonyLIV Premium?</h3>
+<p>A SonyLIV Premium subscription provides users with numerous advantages, making it a go-to platform for streaming enthusiasts:</p>
+<ul>
+<li>
+<strong>Extensive Content Library</strong>: Enjoy a wide variety of content, including Bollywood movies, regional shows, and international series.</li>
+<li>
+<strong>Live Sports Streaming</strong>: Catch live sports events, including cricket, football, and more, ensuring you never miss a match.</li>
+<li>
+<strong>Ad-Free Experience</strong>: Enjoy your favorite shows and movies without interruptions from ads, enhancing your viewing experience.</li>
+<li>
+<strong>Exclusive Originals</strong>: Access a collection of exclusive web series and original content produced by SonyLIV, only available to premium subscribers.</li>
+<li>
+<strong>Multi-Device Support</strong>: Stream on multiple devices, including smartphones, tablets, smart TVs, and computers, for flexibility in viewing.</li>
+</ul>
+<h3>How to Buy SonyLIV Premium from FanFlixBD?</h3>
+<p>Purchasing a SonyLIV Premium subscription from <strong>FanFlixBD</strong> is easy and convenient:</p>
+<ol>
+<li>
+<strong>Select SonyLIV Premium Plan</strong>: Choose the SonyLIV Premium subscription option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Pay using Bkash, Nagad, or Rocket, making it hassle-free for users in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Your SonyLIV Premium subscription will be activated immediately after payment confirmation.</li>
+</ol>
+<h3>Why Buy SonyLIV Premium from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices for SonyLIV Premium subscriptions, ensuring great value for your money.</li>
+<li>
+<strong>Secure Local Payments</strong>: Use local payment options without needing international credit cards or complicated payment processes.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your SonyLIV activation details promptly after payment, allowing you to start streaming without delay.</li>
+<li>
+<strong>Customer Support</strong>: Our support team is available to assist you with any questions or issues regarding your subscription.</li>
+</ul>
+<h3>Features of SonyLIV Premium Subscription:</h3>
+<ul>
+<li>
+<strong>Unlimited Streaming</strong>: Enjoy unlimited access to a vast library of movies, shows, and live sports events.</li>
+<li>
+<strong>Offline Viewing</strong>: Download your favorite content to watch offline, perfect for travel or when you have limited internet access.</li>
+<li>
+<strong>Personalized Recommendations</strong>: Get personalized content suggestions based on your viewing habits for a tailored experience.</li>
+<li>
+<strong>High-Quality Streaming</strong>: Stream in high definition for an immersive viewing experience.</li>
+</ul>
+<h3>How to Activate SonyLIV Premium?</h3>
+<ol>
+<li>Download the SonyLIV app or visit the official website.</li>
+<li>Log in to your account or create a new one.</li>
+<li>Enter the activation code provided by FanFlixBD after purchase.</li>
+<li>Start enjoying your favorite shows and movies!</li>
+</ol>
+<h3>Get SonyLIV Premium Subscription Today!</h3>
+<p>Unlock a world of entertainment with <strong>SonyLIV Premium</strong>. Purchase your subscription from <strong>FanFlixBD</strong> today and experience the joy of unlimited streaming!</p>
+<p><strong>Tags</strong>: SonyLIV Premium, Buy SonyLIV, SonyLIV Bangladesh, Streaming Service, FanFlixBD SonyLIV, Live Sports Streaming, Exclusive Originals, Affordable Streaming Subscription</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8288409911445</id>
+      <title>12 Months</title>
+      <s:price currency="BDT">990.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220927721621</id>
+    <published>2024-03-15T11:20:39+06:00</published>
+    <updated>2024-03-15T11:20:39+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/apple-itunes-giftcard-usa-region"/>
+    <title>Apple iTunes Gift Card</title>
+    <s:type>Giftcard</s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/Apple-Gift_Card.png?v=1735413632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong>Giftcard<br>
+        <strong>Price: </strong>
+            640.00 - 62500.00
+            <a href="https://www.fanflixbd.com/products/apple-itunes-giftcard-usa-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy iTunes Gift Card in Bangladesh – Instant Delivery at FanFlixBD</strong></p>
+<p>Looking for a quick and easy way to top up your <strong>iTunes account</strong> or send the perfect gift? <strong>FanFlixBD</strong> offers a wide range of <strong>iTunes Gift Cards</strong> for Bangladesh users, available in denominations from <strong>$2 to $60</strong>. Whether it's for apps, games, music, or books, an iTunes Gift Card is the ideal choice for any occasion.</p>
+<h3>Why Buy iTunes Gift Card from FanFlixBD?</h3>
+<p>At <strong>FanFlixBD</strong>, purchasing an <strong>iTunes Gift Card</strong> is fast and secure. Simply select the amount that fits your needs, add it to your cart, and make your payment. You’ll receive an <strong>instant redeemable code</strong> via email upon completing your order, allowing you to <strong>top up your iTunes account</strong> quickly.</p>
+<h3>Available iTunes Gift Card Denominations:</h3>
+<ul>
+<li><strong>$2, $3, $4, $5</strong></li>
+<li><strong>$10, $15, $25</strong></li>
+<li><strong>$50, $60</strong></li>
+</ul>
+<p>These cards can be used in the <strong>iTunes Store</strong>, <strong>App Store</strong>, <strong>Mac App Store</strong>, and <strong>iBooks Store</strong> to make purchases, whether for apps, in-app purchases, games, music, movies, or books.</p>
+<h3>The Perfect Gift for Any Occasion</h3>
+<p>The <strong>iTunes Gift Card</strong> makes a great gift for friends and family. It’s a versatile option suitable for all ages and preferences, whether you're gifting a music lover, a gamer, or an avid reader. With this card, your loved ones can choose whatever they like best from the <strong>Apple ecosystem</strong>.</p>
+<h3>How to Redeem iTunes Gift Card:</h3>
+<ol>
+<li>Open the <strong>iTunes Store App</strong> on your iPhone, iPad, or iPod.</li>
+<li>Scroll to the bottom and tap <strong>Redeem</strong>.</li>
+<li>Log in with your <strong>Apple ID</strong>.</li>
+<li>Enter the <strong>16-digit code</strong>, starting with X.</li>
+<li>Tap <strong>Redeem</strong> and your iTunes account balance will be updated instantly.</li>
+</ol>
+<p>At <strong>FanFlixBD</strong>, we provide a smooth shopping experience, making it easy for you to get your <strong>iTunes Gift Card</strong> with local payment methods.</p>
+<hr>
+<p><strong>Tags:</strong> iTunes Gift Card Bangladesh, Buy iTunes Gift Card BD, iTunes Gift Card Online BD, iTunes Redeem Code Bangladesh, App Store Gift Card Bangladesh, iTunes Gift Card Instant Delivery, Buy iTunes Gift Card with Bkash, iTunes Top-Up BD</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>5 USD</title>
+      <s:price currency="BDT">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>10 USD</title>
+      <s:price currency="BDT">1280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>20 USD</title>
+      <s:price currency="BDT">2560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>25 USD</title>
+      <s:price currency="BDT">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>50 USD</title>
+      <s:price currency="BDT">6400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>100 USD</title>
+      <s:price currency="BDT">12800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>200 USD</title>
+      <s:price currency="BDT">25400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220927721621</id>
+      <title>500 USD</title>
+      <s:price currency="BDT">62500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220910125205</id>
+    <published>2024-03-15T11:01:09+06:00</published>
+    <updated>2024-03-15T11:01:09+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/quillbot-premium"/>
+    <title>QuillBot Premium</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/quillbot-subscription_bd.jpg?v=1729881084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            899.00 - 1499.00
+            <a href="https://www.fanflixbd.com/products/quillbot-premium">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><br></span></p>
+<p><strong>Buy QuillBot Premium Subscription in Bangladesh – Enhance Your Writing Skills via FanFlixBD</strong></p>
+<p><strong>QuillBot</strong> is an advanced AI-powered writing assistant designed to help users improve their writing and enhance their overall productivity. With its premium features, QuillBot Premium offers powerful tools for paraphrasing, summarizing, and more, making it an essential resource for students, professionals, and anyone looking to refine their writing.</p>
+<h3>Why Choose QuillBot Premium?</h3>
+<p>QuillBot Premium provides users with an array of features that elevate your writing experience. Here are the key advantages of having a QuillBot Premium subscription:</p>
+<ul>
+<li>
+<strong>Advanced Paraphrasing</strong>: Rephrase sentences with ease while retaining the original meaning. QuillBot's AI provides multiple rephrasing options for any text.</li>
+<li>
+<strong>Unlimited Custom Modes</strong>: Access advanced modes to customize your writing style and tone, ensuring your content matches your specific needs.</li>
+<li>
+<strong>Summarization Tool</strong>: Quickly summarize lengthy texts to capture the main ideas without losing essential information.</li>
+<li>
+<strong>Grammar Checker</strong>: Improve your writing with an integrated grammar checker that helps you catch errors and enhance clarity.</li>
+<li>
+<strong>Collaboration Features</strong>: Work with others by sharing your paraphrased content and collaborating on projects seamlessly.</li>
+</ul>
+<h3>How to Buy QuillBot Premium from FanFlixBD?</h3>
+<p>Purchasing a QuillBot Premium subscription from <strong>FanFlixBD</strong> is straightforward:</p>
+<ol>
+<li>
+<strong>Select QuillBot Premium Plan</strong>: Choose the QuillBot Premium subscription option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Complete your payment using Bkash, Nagad, or Rocket for easy transactions in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Once your payment is confirmed, your QuillBot Premium subscription will be activated immediately.</li>
+</ol>
+<h3>Why Buy QuillBot Premium from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices for QuillBot Premium subscriptions, providing excellent value.</li>
+<li>
+<strong>Secure Local Payments</strong>: Enjoy hassle-free payments without the need for international credit cards.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your QuillBot Premium access details promptly after payment, allowing you to start enhancing your writing right away.</li>
+<li>
+<strong>Customer Support</strong>: Our dedicated support team is available to assist you with any questions or issues regarding your subscription.</li>
+</ul>
+<h3>Features of QuillBot Premium Subscription:</h3>
+<ul>
+<li>
+<strong>Unlimited Paraphrasing</strong>: Enjoy unlimited access to QuillBot's powerful paraphrasing capabilities.</li>
+<li>
+<strong>Customizable Writing Modes</strong>: Tailor your writing style with various modes to suit your audience and purpose.</li>
+<li>
+<strong>Cross-Platform Access</strong>: Use QuillBot on any device, including your computer, tablet, or smartphone.</li>
+<li>
+<strong>User-Friendly Interface</strong>: A simple and intuitive design makes it easy to get started and maximize your productivity.</li>
+</ul>
+<h3>How to Activate QuillBot Premium?</h3>
+<ol>
+<li>Visit the QuillBot website and create an account if you don’t have one.</li>
+<li>Log in to your account.</li>
+<li>Enter the activation code provided by FanFlixBD after purchase.</li>
+<li>Enjoy full access to all QuillBot Premium features!</li>
+</ol>
+<h3>Get QuillBot Premium Subscription Today!</h3>
+<p>Elevate your writing and streamline your work process with <strong>QuillBot Premium</strong>. Purchase your subscription from <strong>FanFlixBD</strong> today and experience the benefits of advanced writing assistance!</p>
+<hr>
+<p><strong>Tags</strong>: QuillBot Premium, Buy QuillBot, QuillBot Bangladesh, Writing Assistant, FanFlixBD QuillBot, Paraphrasing Tool, Improve Writing Skills, Affordable Writing Subscription</p>
+<p><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220910125205</id>
+      <title>6 Months</title>
+      <s:price currency="BDT">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220910125205</id>
+      <title>12 Months</title>
+      <s:price currency="BDT">1499.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220905570453</id>
+    <published>2024-03-15T10:57:20+06:00</published>
+    <updated>2024-03-15T10:57:20+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/surfshark-vpn"/>
+    <title>SurfShark VPN</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/surfshark-vpn_price_in_bd.jpg?v=1729881414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00 - 1999.00
+            <a href="https://www.fanflixbd.com/products/surfshark-vpn">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Buy Surfshark VPN Subscription in Bangladesh – Secure and Private Browsing via FanFlixBD</strong></p>
+<p><strong>Surfshark VPN</strong> is a top-rated virtual private network service that ensures your online privacy and security. With Surfshark, you can browse the internet safely, access geo-restricted content, and enjoy a fast and reliable connection. Whether you’re streaming, gaming, or just browsing, Surfshark VPN is the ideal solution for users in Bangladesh.</p>
+<h3>Why Choose Surfshark VPN?</h3>
+<p>A Surfshark VPN subscription offers numerous advantages to enhance your online experience:</p>
+<ul>
+<li>
+<strong>Strong Security</strong>: Protect your personal information with military-grade encryption, keeping your data safe from hackers and snoopers.</li>
+<li>
+<strong>Unlimited Devices</strong>: Connect an unlimited number of devices simultaneously with one subscription, perfect for families or multi-device users.</li>
+<li>
+<strong>Bypass Geo-Restrictions</strong>: Access content from around the world by bypassing geographical restrictions on streaming services like Netflix, Hulu, and more.</li>
+<li>
+<strong>No Logs Policy</strong>: Surfshark follows a strict no-logs policy, ensuring that your online activities are never recorded or monitored.</li>
+<li>
+<strong>Fast Speeds</strong>: Enjoy high-speed connections with minimal buffering, making it perfect for streaming and downloading.</li>
+</ul>
+<h3>How to Buy Surfshark VPN from FanFlixBD?</h3>
+<p>Purchasing a Surfshark VPN subscription from <strong>FanFlixBD</strong> is simple and efficient:</p>
+<ol>
+<li>
+<strong>Select Surfshark VPN Plan</strong>: Choose the Surfshark VPN subscription option on the FanFlixBD website.</li>
+<li>
+<strong>Local Payment Methods</strong>: Complete your payment using Bkash, Nagad, or Rocket, making it convenient for users in Bangladesh.</li>
+<li>
+<strong>Instant Activation</strong>: Your Surfshark VPN subscription will be activated immediately after payment confirmation and sent to your personal email.</li>
+</ol>
+<h3>Why Buy Surfshark VPN from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices for Surfshark VPN subscriptions, providing excellent value for your online security needs.</li>
+<li>
+<strong>Secure Local Payments</strong>: Enjoy hassle-free payments without needing international credit cards or complicated payment processes.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your Surfshark activation details promptly after payment, allowing you to start using the VPN without delay.</li>
+<li>
+<strong>Customer Support</strong>: Our dedicated support team is available to assist you with any questions or issues regarding your subscription.</li>
+</ul>
+<h3>Features of Surfshark VPN Subscription:</h3>
+<ul>
+<li>
+<strong>Unlimited Bandwidth</strong>: Enjoy unrestricted internet access with no data caps.</li>
+<li>
+<strong>Camouflage Mode</strong>: Use the camouflage mode to hide the fact that you are using a VPN, making your online presence even more discreet.</li>
+<li>
+<strong>MultiHop</strong>: Connect through multiple countries for an added layer of security and privacy.</li>
+<li>
+<strong>Whitelister</strong>: Exclude specific apps and websites from the VPN connection for flexibility.</li>
+</ul>
+<h3>How to Activate Surfshark VPN?</h3>
+<ol>
+<li>Download the Surfshark VPN app for your device.</li>
+<li>Log in to your account using the credentials provided after purchase.</li>
+<li>Connect to your preferred server location.</li>
+<li>Start browsing securely and privately!</li>
+</ol>
+<h3>Get Surfshark VPN Subscription Today!</h3>
+<p>Protect your online privacy with <strong>Surfshark VPN</strong>. Purchase your subscription from <strong>FanFlixBD</strong> today and enjoy secure and unrestricted internet access!</p>
+<hr>
+<p><strong>Tags</strong>: Surfshark VPN, Buy Surfshark, VPN Bangladesh, Online Privacy, FanFlixBD Surfshark, Secure Browsing, Unlimited Devices, Affordable VPN Subscription</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220905570453</id>
+      <title>12 Month</title>
+      <s:price currency="BDT">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220905570453</id>
+      <title>24 Month</title>
+      <s:price currency="BDT">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220903538837</id>
+    <published>2024-03-15T10:55:55+06:00</published>
+    <updated>2024-03-15T10:55:55+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/windows-10-11-activation-key"/>
+    <title>Windows 10/11 Pro Activation Key</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/windows-10-11-pro-activation-key.jpg?v=1731176449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>Buy Windows Pro Activation Key in Bangladesh – Genuine Windows 10/11 from FanFlixBD</strong></h2>
+<p>Unlock your PC’s full potential with a <strong>Genuine Windows Pro Activation Key</strong> from FanFlixBD. Whether upgrading your current system or setting up a new one, our <strong>Windows 10/11 activation keys</strong> provide a secure, reliable way to activate your operating system.</p>
+<h3>Why Choose a Windows Pro Activation Key?</h3>
+<p>A <strong>Windows Pro Activation Key</strong> offers numerous benefits, ideal for users looking for advanced features and security:</p>
+<ul>
+<li>
+<strong>Access to Advanced Features</strong>: Get professional tools like BitLocker, Remote Desktop, and Group Policy Management – ideal for power users and professionals.</li>
+<li>
+<strong>Enhanced Security</strong>: Benefit from advanced security features to protect your data and privacy, including built-in antivirus and firewall protection.</li>
+<li>
+<strong>Regular Updates</strong>: Stay secure with Microsoft's latest updates and features.</li>
+<li>
+<strong>Multi-Language Support</strong>: Easily switch between languages, making it convenient for global users.</li>
+</ul>
+<h3>How to Buy a Windows 10/11 Activation Key from FanFlixBD?</h3>
+<p>Purchasing a <strong>Windows 10 or Windows 11 Activation Key</strong> from FanFlixBD is simple and tailored for users in Bangladesh:</p>
+<ol>
+<li>
+<strong>Select Your Activation Key</strong>: Visit the FanFlixBD website and choose the <strong>Windows Pro Activation Key</strong> option for Windows 10 or Windows 11.</li>
+<li>
+<strong>Local Payment Options</strong>: Complete your purchase through Bkash, Nagad, or Rocket for a smooth, hassle-free transaction.</li>
+<li>
+<strong>Instant Delivery</strong>: Receive your <strong>Windows activation key</strong> instantly via email after payment confirmation.</li>
+</ol>
+<h3>Why Buy a Windows Activation Key from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: FanFlixBD offers competitive prices on <strong>Windows 10 and Windows 11 activation keys</strong>, providing excellent value for your investment.</li>
+<li>
+<strong>Secure Transactions</strong>: Safe and secure shopping experience with local payment options – no international credit cards required.</li>
+<li>
+<strong>Customer Support</strong>: Our team is ready to assist with any questions about your <strong>Windows activation key</strong> purchase.</li>
+</ul>
+<h3>How to Activate Your Windows 10/11 Pro with an Activation Key</h3>
+<ol>
+<li>Open <strong>Settings</strong> on your Windows device.</li>
+<li>Go to <strong>Update &amp; Security</strong>.</li>
+<li>Click on <strong>Activation</strong>.</li>
+<li>Enter the activation key from FanFlixBD.</li>
+<li>Follow the prompts to complete the activation.</li>
+</ol>
+<h3>Get Your Windows Pro Activation Key Today!</h3>
+<p>Don’t miss out on the powerful features and enhanced security of <strong>Windows 10/11 Pro</strong>. Buy your <strong>Windows Pro Activation Key</strong> from FanFlixBD today and unlock the full potential of your system!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220903538837</id>
+      <title>Default Title</title>
+      <s:price currency="BDT">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fanflixbd.com/products/8220900360341</id>
+    <published>2024-03-15T10:52:56+06:00</published>
+    <updated>2024-03-15T10:52:56+06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fanflixbd.com/products/iqiyi-subscriptions-price-bangladesh"/>
+    <title>IQIYI VIP Subscription</title>
+    <s:type></s:type>
+    <s:vendor>FANFLIX - OTT SUBSCRIPTIONS BD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0641/0738/0885/files/iqiyi-price_in_bd.jpg?v=1729880393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FANFLIX - OTT SUBSCRIPTIONS BD<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            349.00 - 1600.00
+            <a href="https://www.fanflixbd.com/products/iqiyi-subscriptions-price-bangladesh">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>iQIYI Subscription in Bangladesh – Enjoy Premium Content via FanFlixBD</strong></p>
+<p><strong>iQIYI</strong> is a leading online streaming platform known for its vast collection of Asian dramas, movies, anime, and variety shows. With an iQIYI subscription, you can access high-quality content from China, Korea, Japan, and more. <strong>FanFlixBD</strong> makes it easy for users in Bangladesh to subscribe to iQIYI, allowing you to enjoy your favorite shows and movies with just a few clicks.</p>
+<h3>Why Choose iQIYI Subscription?</h3>
+<p>With an iQIYI subscription, you gain access to a world of entertainment that caters to diverse tastes. Here are some reasons to subscribe:</p>
+<ul>
+<li>
+<strong>Vast Content Library</strong>: Enjoy thousands of titles, including popular dramas, movies, and exclusive content that you won’t find anywhere else.</li>
+<li>
+<strong>High-Quality Streaming</strong>: Experience content in HD quality, with seamless streaming on multiple devices.</li>
+<li>
+<strong>Simulcasts and Latest Releases</strong>: Watch the latest episodes of your favorite shows soon after they air, keeping you up-to-date with trending series.</li>
+<li>
+<strong>User-Friendly Interface</strong>: iQIYI offers an intuitive interface, making it easy to search for and discover new content.</li>
+<li>
+<strong>Offline Viewing</strong>: Download your favorite shows and movies to watch offline, perfect for traveling or when you have limited internet access.</li>
+</ul>
+<h3>How to Buy iQIYI Subscription from FanFlixBD?</h3>
+<p>Purchasing your iQIYI subscription through <strong>FanFlixBD</strong> is straightforward:</p>
+<ol>
+<li>
+<strong>Choose Your Subscription Plan</strong>: Select the iQIYI subscription plan that suits you best (monthly or annual).</li>
+<li>
+<strong>Secure Payment Options</strong>: Make your payment easily using <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong>, ensuring a hassle-free transaction.</li>
+<li>
+<strong>Instant Activation</strong>: Once your payment is confirmed, your iQIYI subscription will be activated immediately, allowing you to start watching right away.</li>
+</ol>
+<h3>Why Buy iQIYI from FanFlixBD?</h3>
+<ul>
+<li>
+<strong>Affordable Pricing</strong>: Enjoy competitive prices on iQIYI subscriptions tailored for Bangladeshi users.</li>
+<li>
+<strong>Local Payment Methods</strong>: Skip the hassle of international payment options by using local payment methods like <strong>Bkash</strong>, <strong>Nagad</strong>, or <strong>Rocket</strong>.</li>
+<li>
+<strong>Quick Delivery</strong>: Receive your subscription details promptly after payment, so you can start streaming without delays.</li>
+<li>
+<strong>Dedicated Customer Support</strong>: Our support team is available to assist you with any questions or issues related to your iQIYI subscription.</li>
+</ul>
+<h3>What to Watch on iQIYI?</h3>
+<p>iQIYI offers a diverse range of content, including:</p>
+<ul>
+<li>
+<strong>Popular Dramas</strong>: Enjoy hit series from China, Korea, and other Asian countries, including romance, fantasy, and action genres.</li>
+<li>
+<strong>Variety Shows</strong>: Watch entertaining variety shows featuring your favorite stars and engaging content.</li>
+<li>
+<strong>Anime</strong>: Access a wide selection of anime titles, perfect for fans of the genre.</li>
+<li>
+<strong>Movies</strong>: Discover both blockbuster hits and indie films from Asia.</li>
+</ul>
+<h3>Start Your iQIYI Adventure Today!</h3>
+<p>With an <strong>iQIYI subscription</strong>, you have access to endless entertainment options at your fingertips. Join the millions of users enjoying high-quality content from Asia. Purchase your subscription through <strong>FanFlixBD</strong> today and dive into a world of captivating dramas, movies, and more!</p>
+<hr>
+<p><strong>Tags</strong>: iQIYI Subscription Bangladesh, Buy iQIYI Subscription, iQIYI Price Bangladesh, Stream Asian Dramas, iQIYI Online Streaming, FanFlixBD iQIYI, Bkash iQIYI Payment</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220900360341</id>
+      <title>1 Months</title>
+      <s:price currency="BDT">349.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220900360341</id>
+      <title>3 Months</title>
+      <s:price currency="BDT">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fanflixbd.com/products/8220900360341</id>
+      <title>6 Months</title>
+      <s:price currency="BDT">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
